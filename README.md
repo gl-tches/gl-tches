@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there I'm GLITCHES
 
+DAPP & Cyber-Sec. enthusiast.
 <!--
 **gl-tches/gl-tches** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
