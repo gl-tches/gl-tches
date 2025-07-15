@@ -1,6 +1,8 @@
 ## Hi there I'm GLITCHES
 
 DAPP & Cyber-Sec. enthusiast.
+
+![alt](https://raw.githubusercontent.com/RadonCoding/RadonCoding/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only "snake game")
 <!--
 **gl-tches/gl-tches** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
